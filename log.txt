@@ -1,0 +1,19 @@
+Sun May 14 20:40:41 2023 HOME_IOT SIMULATOR STARTING
+Sun May 14 20:40:41 2023
+ WORKER 1 READY
+Sun May 14 20:40:41 2023
+ WORKER 3 READY
+Sun May 14 20:40:41 2023
+ Dispatch thread starting!
+Sun May 14 20:40:41 2023
+ WORKER 2 READY
+Sun May 14 20:40:41 2023
+ WORKER 0 READY
+Sun May 14 20:40:41 2023
+ Sensor thread starting!
+Sun May 14 20:40:41 2023
+ Console thread starting!
+Sun May 14 20:40:41 2023
+ Alert Watcher created!
+Sun May 14 20:40:41 2023
+ WORKER 4 READY
